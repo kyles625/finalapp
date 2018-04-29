@@ -1,5 +1,5 @@
 ## My Final App
-### Kyle Streit
+### By: Kyle Streit
 
 You can use the [editor on GitHub](https://github.com/kyles625/finalapp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
