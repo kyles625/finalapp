@@ -1,4 +1,4 @@
-## My Final App
+## CIS-277 Final App
 ### By: Kyle Streit
 
 # Student Budget Calculator
